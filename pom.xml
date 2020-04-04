@@ -149,7 +149,7 @@
             </plugin>
         </plugins>
     </build>
-<<<<<<< HEAD
+
     <developers>
 		<developer>
 			<name> Ederlan Borges </name>
@@ -157,8 +157,8 @@
 		
 		</developer>
 	</developers>
-</project>
-=======
+
+
 
 </project>
->>>>>>> work
+
