@@ -22,7 +22,7 @@ public class SessaoForm {
 	@NotNull
 	private Integer filmeId;
 
-	// getters e setters
+
 	public Integer getSalaId() {
 		return salaId;
 	}

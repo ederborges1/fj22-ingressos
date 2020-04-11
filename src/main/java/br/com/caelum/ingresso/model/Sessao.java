@@ -18,6 +18,7 @@ public class Sessao {
 	
 	@ManyToOne
 	private Sala sala;
+	
 	@ManyToOne
 	private Filme filme;
 	
